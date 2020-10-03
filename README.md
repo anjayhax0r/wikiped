@@ -1,5 +1,6 @@
 # wikiped
 wikipedia information
 # requirement
-```python -m pip install gtts playsound wikipedia
+```
+python -m pip install gtts playsound wikipedia
 ```
